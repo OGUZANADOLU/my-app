@@ -18,4 +18,4 @@ apply workflow in Terraform Cloud.
 ## Master Terraform by taking a Hands-On Approach
 Check out the 70+ labs that follow the HashiCorp Certified: Terraform
 Associate certification. Learn more at https://www.udemy.com/course/
-terraform-hands-on-labs
+terraform-hands-on-labs# my-app
